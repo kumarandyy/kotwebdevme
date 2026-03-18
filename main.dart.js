@@ -94589,7 +94589,7 @@ s=this.c
 s.toString
 r=A.Co(new A.atA(),B.zG,t.z)
 A.dV(s,!1).kd(r)},
-J(a){var s=null,r=A.cm(14),q=this.d?8:3,p=A.cm(14),o=A.fB("assets/plogo.png",s,40,40),n=A.aH("Download Kotak Card App",s,s,s,s,A.f_().$1$fontWeight(B.bG),s,s,s)
+J(a){var s=null,r=A.cm(14),q=this.d?8:3,p=A.cm(14),o=A.fB("assets/plogo.png",s,40,40),n=A.aH("Kotak Card App",s,s,s,s,A.f_().$1$fontWeight(B.bG),s,s,s)
 return A.M8(A.vG(!1,p,!0,A.aKd(o,s,A.aH("Access your credit card services instantly on mobile.",s,s,s,s,A.f_().$1$fontSize(12),s,s,s),n,B.II),s,!0,s,s,s,s,s,s,s,s,s,this.gahC(),s,s,s,s),s,B.j,q,B.kg,s,new A.c2(r,B.n))}}
 A.atz.prototype={
 $0(){var s=this.a
